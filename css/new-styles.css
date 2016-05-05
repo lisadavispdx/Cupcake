@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  width: 120pt
+  text-align:center;
+}
+
+h2 {
+  font-style: italic;
+  font-family: cursive;
+}
+
+.important {
+  font-weight: bolder;
+}
