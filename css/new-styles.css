@@ -12,3 +12,23 @@ h2 {
 .important {
   font-weight: bolder;
 }
+
+.cupcake {
+  font-style: italic;
+}
+
+.birthday {
+  float: right;
+  border: yellow;
+  border-width: medium;
+}
+.sidbar {
+  float:left;
+  background-color: green;
+}
+.column {
+  width:400px;
+  float:left;
+  background-color: blue;
+
+}
