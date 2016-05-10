@@ -15,12 +15,16 @@ h2 {
 
 .cupcake {
   font-style: italic;
+  border: 2px solid green;
+  margin: 10px;
+  padding: 6px;
 }
 
 .birthday {
   float: right;
-  border: yellow;
+  border: 2px solid yellow;
   border-width: medium;
+  padding: 6px
 }
 .sidbar {
   float:left;
@@ -29,6 +33,5 @@ h2 {
 .column {
   width:400px;
   float:left;
-  background-color: blue;
-
+background-color: yellow;
 }
